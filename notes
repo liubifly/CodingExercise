@@ -1,2 +1,5 @@
 # how to solve the overflow problems in binary serach?
 using start + (end-start)/2 instead of (start+end)/2
+# the stopping condition in binary search (it is more general, applying to the cases where +1/-1 cannot be implemented? )
+while (start+1 <end)
+start = mid/ end = mid
