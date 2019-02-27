@@ -1,0 +1,2 @@
+# how to solve the overflow problems in binary serach?
+using start + (end-start)/2 instead of (start+end)/2
